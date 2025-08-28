@@ -190,7 +190,7 @@
 \end{table}
 ```
 
-![](/Users/guoyuyan/Documents/工作/overleaf快速使用指南与实用小工具/image1.png)
+![](/images/image1.png)
 
 其中，`{ccc}`这里可以设置每一列的宽度和对齐方式，`{}`里面换成下面三列，就设置成了每列的宽度为3cm 3.5cm 3.5cm，垂直居中对齐。
 
